@@ -1,0 +1,15 @@
+body, html {
+    height: 100%;
+}
+
+.home {
+  background-image: url('../img/background.jpeg');
+}
+
+.search-label {
+  width: 100%;
+  text-align: center;
+  font-family: 'Mali', cursive;
+  font-size: 30pt;
+  font-weight: bold;
+}

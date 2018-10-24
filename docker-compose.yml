@@ -1,0 +1,15 @@
+version: "3.3"
+services:
+  qservices:
+    container_name: qservices
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: qservices:latest
+    command: rm db.sqlite3
+    command: python manage.py migrate
+    command: python manage.py runserver 0.0.0.0:80 --insecure
+    volumes:
+      - .:/code
+    ports:
+      - "80:80"
