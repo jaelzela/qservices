@@ -1,0 +1,1702 @@
+[
+    {
+        "user_polarity": "pos", 
+        "review": "The Scour search engine now uses Flickr for its image search.", 
+        "api": "Flickr", 
+        "user_rates": [
+            1, 
+            -1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Easy and fun to search for video and images using Youtube and Flickr API.", 
+        "api": "Flickr", 
+        "user_rates": [
+            2, 
+            0, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Wow, a detailed and Cool list, hv given a link from my blog aweBsome - all that\\'s awesome on web @ URL", 
+        "api": "Flickr", 
+        "user_rates": [
+            2, 
+            -2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "More Flickr photo tricks @  URL  (upload photo, add cool stuff & effects).", 
+        "api": "Flickr", 
+        "user_rates": [
+            1, 
+            1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "You could receive payments to your site using the Paypal Merchant Account: URL", 
+        "api": "PayPal", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "You could receive payments to your site using the Paypal Merchant Account: URL", 
+        "api": "PayPal", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "To get started quickly, I recommend you to just jump into the test site and create a button or two. Their documentation at URL needs reorganizing to better meet the needs of a complete newbie to all of the paypal services. URL", 
+        "api": "PayPal", 
+        "user_rates": [
+            -1, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Excellent idea!", 
+        "api": "FedEx", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Thanks. We're gonna use Adwords API for our MCC. URL", 
+        "api": "Google AdWords", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Adwords API is a good thing...Google should create more monster tools like this!", 
+        "api": "Google AdWords", 
+        "user_rates": [
+            2, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I think this is a great service.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "This is a wonderful service.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "The best map api around. Very fast and reliable. I love the hybrid map mode. Unline other apis, Google Maps Api GOverviewMap control is ver useful. It can also used outer side of the map. Thanks Google Maps Team.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            2, 
+            2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "This is a cool service! GMs Rocks! I built my site using this - URL !!!", 
+        "api": "Google Maps", 
+        "user_rates": [
+            2, 
+            2, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Here is another eBay / Google Maps mashup that you might like to consider adding:.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            -1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "When will google fix maps for other countries. I'm currently studying in the Philippines and the map for Manila is way off. It doesn't even correspond to the satellite view!", 
+        "api": "Google Maps", 
+        "user_rates": [
+            -2, 
+            -1, 
+            -2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I am very happy with Google Maps for Bulgaria. URL", 
+        "api": "Google Maps", 
+        "user_rates": [
+            1, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Google API solution gets putperformed by Mapping specialist.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            0, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Excellent service provided by GoogleMaps where ever you are you may locate the place you want to visit with few mouse click.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            2, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "Some of rural addresses are not covered by Google Maps. In that case, MapQuest and Yahoo Maps are more thorough. Yahoo Maps gives even coordinates of the location.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            -1, 
+            -1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "I use Google all the time. However could you change your information in La Quinta CA at 50th and Jefferson. On the East side of Jefferson is Mountain View Country Club. On the West side of Jefferson is the Cirtus Country Club. Your now have the Cirtus Country Club on the East side. Hopefully you can change it.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            -1, 
+            -1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I use Google apps as much as possible, and Maps really gets it better than other services when you need to place a building or get to an obscure side street or massive administrative center.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            1, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I find my house, in a two clicks. The best map i even seen.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            1, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Aeropark is also very happy with the mapping service in cebu.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            2, 
+            2, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "A recent change to maps, the first 'bad' one, is the blanking of the screen for prolonged periods of time. At the very least the user should have the ability to keep the map showing. I was not able to find such a setting.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            -1, 
+            -2, 
+            -2
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "I used Google map directions twice this week and both times the directions were WRONG! Reporting left turns when it should be right turns with incorrect mileage. Lost for 30 minutes - NOT HAPPY ABOUT THAT!", 
+        "api": "Google Maps", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "i found here a great information.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            1, 
+            1, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "I have been using Google maps to find driving directions for some time. I tried to use it today and found it \"improved\"! So much \"improved\" that I will never use it again. What a complete waste.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            -2, 
+            -2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Here is another eBay / Google Maps mashup that you might like to consider adding:.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            0, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "My website use this, and where in Brazil is very popular. Its a real state website with all the offers on the map. Its Imobilien. Could you mind take a look and add on the list. Thx and sorry about my english.", 
+        "api": "Google Maps", 
+        "user_rates": [
+            1, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "When will google fix maps for other countries. I'm currently studying in the Philippines and the map for Manila is way off. It doesn't even correspond to the satellite view!", 
+        "api": "Google Maps", 
+        "user_rates": [
+            -1, 
+            -1, 
+            -2
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "The actual API link is: URL and they only seem to support SOAP.", 
+        "api": "NCBI Entrez", 
+        "user_rates": [
+            1, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "NCBI has two ways to access this API. SOAP is one, the other is an POX/HTTP protocol documented here:. URL", 
+        "api": "NCBI Entrez", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Simple and Workplace safe interface to YouTube via their APIs. In English too.", 
+        "api": "YouTube", 
+        "user_rates": [
+            1, 
+            1, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Fun to search for video and images using YouTube and Flickr API.", 
+        "api": "YouTube", 
+        "user_rates": [
+            1, 
+            -1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "youtube apis are easy and useful. But there is too much detailed scripts. We need small sized scripts :).", 
+        "api": "YouTube", 
+        "user_rates": [
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "The warm feeling I get when someone is thoughtful enough to say thank you for having been helped far outweighs the empty one I get when there's no feedback at all.", 
+        "api": "YouTube", 
+        "user_rates": [
+            1, 
+            1, 
+            -2
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "I can not open Youtube.com in my camputer, The China ip is blocked now? Pls help me how can i open it?", 
+        "api": "YouTube", 
+        "user_rates": [
+            -1, 
+            0, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "ATTENTION KeywordSpy.com:. STOP YOUR REVIEW AND SPAMMING SCHEME!", 
+        "api": "Wordtracker", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "At the time of this writing (July 2006) the Salesforce.com API (URL is available only to Enterprise and Unlimited customers but not to Professional and Team customers (with the exception of certified partner add-ins.) In my opinion, their decision to limit their APIs to only their 'premium' customers is supremely stupid and is the type of shortsightedness that can only come from a company with a \"Sales\" culture where they are always looking to close bigger deals as opposed to a \"Marketing\" culture where they are always looking to grow the value of their platform and meet the needs of their customers. I plan to blog about this at my Salesforce blog, and any help making my point that it would be in Salesforce's best interest to offer their API to all customers would be greatly appreciated.", 
+        "api": "Salesforce.com", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "broken ! Not found !", 
+        "api": "WSRelater", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "broken ! Not found !", 
+        "api": "WSRelater", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "GO GYMNASTICS GO and GO CANADA GO - nice home page GOOGLE :).", 
+        "api": "Google Homepage", 
+        "user_rates": [
+            0, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "Thanks Adam. Although that page requires an account to login which makes it less useful for general readership. I have submitted a request for API access, which is pending.", 
+        "api": "Shopping.com", 
+        "user_rates": [
+            1, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "Hello. I tryed to find out how can I get list of all products categories on shopping.com, but I failed. May be someone knows how to get list of all categories on shopping.com using their api?", 
+        "api": "Shopping.com", 
+        "user_rates": [
+            -1, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "We've just created a new example site using API 3 and asp.net (VB.NET). If anyone has questions or comments about the site or using the new API I would love to hear them:.", 
+        "api": "Shopping.com", 
+        "user_rates": [
+            1, 
+            1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "Shopping.com API account rep just told me that if I were to use datafeedscripts.net that they will cancel my shopping partner account. Apparently, their product violates the api usage requirements.", 
+        "api": "Shopping.com", 
+        "user_rates": [
+            -1, 
+            0, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "It's good to know this - with the applications I have worked on, I have always encoded links, not because I want to deceive the customer in some way (I always try to clearly state that a particular link will take them to the retailer's site), but to make things \"tidier\" and also because I don't really want people poking around looking at my affiliate links. I kind of feel like they are \"my business\".", 
+        "api": "Shopping.com", 
+        "user_rates": [
+            0, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "April,2,2013 Shopping.com rebrands to eBay Commerce Network.", 
+        "api": "Shopping.com", 
+        "user_rates": [
+            1, 
+            1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "A quick google search revealed some API documentation here: URL", 
+        "api": "Shopping.com", 
+        "user_rates": [
+            1, 
+            1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "Hello. I tryed to find out how can I get list of all products categories on shopping.com, but I failed. May be someone knows how to get list of all categories on shopping.com using their api?", 
+        "api": "Shopping.com", 
+        "user_rates": [
+            -1, 
+            -1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "We developed a new component and modules set for powerfull CMS Joomla to use Shopping.com API you may see it in action on URL", 
+        "api": "Shopping.com", 
+        "user_rates": [
+            1, 
+            1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "We've just created a new example site using API 3 and asp.net (VB.NET). If anyone has questions or comments about the site or using the new API I would love to hear them:.", 
+        "api": "Shopping.com", 
+        "user_rates": [
+            1, 
+            1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "April,2,2013 Shopping.com rebrands to eBay Commerce Network.", 
+        "api": "Shopping.com", 
+        "user_rates": [
+            1, 
+            1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I love it. We use it daily to manage the development of our software. Go 37signals!", 
+        "api": "Basecamp", 
+        "user_rates": [
+            2, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "It may be good for communication, but for managing my projects I chose Wrike URL after reading this article URL", 
+        "api": "Basecamp", 
+        "user_rates": [
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "BaseCamp - really useful poject menagement service. Even mobile phone synchronization available. (grabsync.com/mobile/).", 
+        "api": "Basecamp", 
+        "user_rates": [
+            2, 
+            2, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I love it. We use it daily to manage the development of our software. Go 37signals!", 
+        "api": "Basecamp", 
+        "user_rates": [
+            2, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "It may be good for communication, but for managing my projects I chose Wrike URL after reading this article URL", 
+        "api": "Basecamp", 
+        "user_rates": [
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "The heading and description doesn't seem to match the rest of the data. Is it AWS or Alexa?", 
+        "api": "Alexa Web Information Service", 
+        "user_rates": [
+            -1, 
+            0, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "i like to be inface book.", 
+        "api": "Facebook", 
+        "user_rates": [
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "relly good.", 
+        "api": "Facebook", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "The best :-).", 
+        "api": "Facebook", 
+        "user_rates": [
+            2, 
+            2, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "It is useful because PayPal is not available in many countries.", 
+        "api": "Google Checkout", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Really nice reverse phone lookup sites reviewed here: URL", 
+        "api": "StrikeIron Reverse Phone and Address Append", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I'm using it. I love it. Best of luck.", 
+        "api": "Commission Junction", 
+        "user_rates": [
+            2, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Its good.", 
+        "api": "Commission Junction", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "So far, dealing with the CJ.com API hasn't been as smooth as I would have liked, but CJ.com is so powerful that it's seams to worth toughing it through my initial problems.", 
+        "api": "Commission Junction", 
+        "user_rates": [
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I'm using it. I love it. Best of luck.", 
+        "api": "Commission Junction", 
+        "user_rates": [
+            2, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Glad to see they have good docs now.", 
+        "api": "Microsoft adCenter", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "We applied for access to the API a couple weeks ago and didn't recieve any response. Any idea when the api will be made public so we can start using it?", 
+        "api": "Microsoft adCenter", 
+        "user_rates": [
+            -1, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "The link for adcenter doesn't work. I think this API doesn't exist anymore. Please remove it from the list.", 
+        "api": "Microsoft adCenter", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Hi Mukul. Thanks for the note. The API itself definitely exists and is actively being used. Microsoft now has much more public documenation on the API and we have updated the link here.", 
+        "api": "Microsoft adCenter", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Glad to see they have good docs now.", 
+        "api": "Microsoft adCenter", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "We applied for access to the API a couple weeks ago and didn't recieve any response. Any idea when the api will be made public so we can start using it?", 
+        "api": "Microsoft adCenter", 
+        "user_rates": [
+            -1, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "This is not a Web service.", 
+        "api": "Winamp", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "good.", 
+        "api": "Winamp", 
+        "user_rates": [
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I really appreciate this ~.", 
+        "api": "Twitter", 
+        "user_rates": [
+            1, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "Isn't this pretty senseless, as a hostname lookup can be done with much elss hassle than integration for another API?", 
+        "api": "StrikeIron IP Address Lookup", 
+        "user_rates": [
+            -1, 
+            -2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "EarthTools provides various WebServices that can be useful to get the data about a particular geographical region. eg. To get the Time Zones and Local Times according to the latitude and longitude of the place, to get the sunrise or sunset times of the place or getiing the elevation/height above the sea level.", 
+        "api": "EarthTools", 
+        "user_rates": [
+            1, 
+            1, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "yahoo site works on explorer .window works fast in explorer. Unlimited Web Hosting .", 
+        "api": "Yahoo Site Explorer", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "the authorize.net API is quite simple to use. We at menexis have been utilizing their platform for years now. They also have a great support system.", 
+        "api": "Authorize.Net", 
+        "user_rates": [
+            2, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I have been using free Oscommerce shopping cart with Authorize.net the last 5 years, which very easy to setup. It is only $7 at URL if anyone is looking for an inexpensive solution.", 
+        "api": "Authorize.Net", 
+        "user_rates": [
+            2, 
+            1, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I liked rich offers base of this mashup and i found that searching is very wide and advanced.", 
+        "api": "Trulia", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Trulia's mashups are pretty high quality. Can anyone say how good the API is comparatively? Maybe it's because they use Mashery. =).", 
+        "api": "Trulia", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Trulia's mashups are pretty high quality. Can anyone say how good the API is comparatively? Maybe it's because they use Mashery. =).", 
+        "api": "Trulia", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "This API makes no sense. Is it just REST but that the providers haven't conceived of it in that way?", 
+        "api": "Democracy In Action", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "This API makes no sense. Is it just REST but that the providers haven't conceived of it in that way?", 
+        "api": "Democracy In Action", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I've found a download link here - from where you can download offcial client and play freely, cool ; ) URL", 
+        "api": "EVE Online CREST Carbon RESTful", 
+        "user_rates": [
+            1, 
+            1, 
+            -2
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "hi am also unable to signup for yelp. any suggestion?", 
+        "api": "Yelp", 
+        "user_rates": [
+            -1, 
+            0, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "This API should also be tagged with Adobe.", 
+        "api": "Kuler", 
+        "user_rates": [
+            1, 
+            1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Thanks for the suggestion. We've now started to track Adobe APIs as a group.", 
+        "api": "Kuler", 
+        "user_rates": [
+            1, 
+            1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "This API should also be tagged with Adobe.", 
+        "api": "Kuler", 
+        "user_rates": [
+            1, 
+            1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Thanks for the suggestion. We've now started to track Adobe APIs as a group.", 
+        "api": "Kuler", 
+        "user_rates": [
+            1, 
+            1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Easy to use for the developers. However the interface it throws in front of new users might be a little daunting. Powerful for users with experience in photo software.", 
+        "api": "FotoFlexer", 
+        "user_rates": [
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "according to me , it's very easy .In fact Retuschieren is so important in our lives,theVector-Graphics can make the photos larger and clearer, through masking and Retouching the photos will be more beautiful,the different effect sometimes come from the clipping path and Photomontage.", 
+        "api": "FotoFlexer", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "In fact [url=URL is so important in our lives,the [url=URL can make the photos larger and clearer, through [url=URL and [url=URL the photos will be more beautiful,the different effect sometimes come from the [url=URL path[/url] and [url=URL", 
+        "api": "FotoFlexer", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Baynote also has a social search API.", 
+        "api": "Baynote", 
+        "user_rates": [
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "API home link returns 404.", 
+        "api": "Urloid", 
+        "user_rates": [
+            0, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Here is a temp LinkedIn API for accessing data from a users profile.", 
+        "api": "LinkedIn", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Sweet! I contacted them about this last year. It's great to see they actually did it!", 
+        "api": "LinkedIn", 
+        "user_rates": [
+            2, 
+            1, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "The LinkedIn guys are control freaks and they are doing all this just for the money. I'd never waste my time doing something with their crappy apis, sorry.", 
+        "api": "LinkedIn", 
+        "user_rates": [
+            1, 
+            -2, 
+            -2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Hi monkeyvu: you can try their EMAIL email address to request permission.", 
+        "api": "LinkedIn", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "As you all may know the linkedIn Api is finally open to everyone. For code example in php please look at URL", 
+        "api": "LinkedIn", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Hi monkeyvu: you can try their EMAIL email address to request permission.", 
+        "api": "LinkedIn", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "The UserID request does not seem to work for the LyricsFly API. So, how do you get a User ID?", 
+        "api": "Lyricsfly", 
+        "user_rates": [
+            -1, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "I can see the xml page open up well in firefox, but I do not know which tool to use in Linux / Windows to get the xml file downloaded locally. I am using Qt for my cur application devel, Any help?", 
+        "api": "Lyricsfly", 
+        "user_rates": [
+            -1, 
+            -1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "This is an official and illegal API, Lyrics are covered by copyright.", 
+        "api": "Lyricsfly", 
+        "user_rates": [
+            -2, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "Where and how do I get my API key and the documentation?", 
+        "api": "Lyricsfly", 
+        "user_rates": [
+            -1, 
+            -1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "New Shopzilla Publisher Program API Released. The new API has improved functionality, added features, and is built upon a faster, more scalable infrastructure.", 
+        "api": "Shopzilla", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "The new API is absolutely fantastic. However, it is missing a \"Get All Merchants\" call. You have to search for merchants by keyword which is not ideal.", 
+        "api": "Shopzilla", 
+        "user_rates": [
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "New Shopzilla Publisher Program API Released. The new API has improved functionality, added features, and is built upon a faster, more scalable infrastructure.", 
+        "api": "Shopzilla", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I just finished using Calais Marmoset on Cogenuity and it was a breeze. You can read the details over at URL", 
+        "api": "Calais", 
+        "user_rates": [
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "i LOVE meez!! if anybody has a meez add me my username on meez is: lizzy_hoff thanks.", 
+        "api": "Meez", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Hey add me and rate, my username is:janefreedom.", 
+        "api": "Meez", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "These guys are all bark and no bite... they've been carrying on about this for years but it's still vaporware and there's plenty of better alternatives.", 
+        "api": "Enomalism", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "This software still doesn't install!?!?! I'm running Ubuntu 8.04 and all I get is exceptions and 500 errors. Is it for real or what?", 
+        "api": "Enomalism", 
+        "user_rates": [
+            -2, 
+            -2, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "Apparently not... the group's been full of spam for ages so maybe the lights are on by nobody's home?", 
+        "api": "Enomalism", 
+        "user_rates": [
+            -2, 
+            -1, 
+            -2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Thanks for the note Carlos, we've updated this API link.", 
+        "api": "TravEnjoy", 
+        "user_rates": [
+            2, 
+            1, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Thanks for the note Carlos, we've updated this API link.", 
+        "api": "TravEnjoy", 
+        "user_rates": [
+            2, 
+            1, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "This API is dead since 2014.", 
+        "api": "Netflix", 
+        "user_rates": [
+            -2, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "The limitation statement is a little misleading. It's 3 messages per minute per user key.", 
+        "api": "Ping.fm", 
+        "user_rates": [
+            1, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Very good API.", 
+        "api": "Foxrate", 
+        "user_rates": [
+            2, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Very good API. It just fits my need.", 
+        "api": "Foxrate", 
+        "user_rates": [
+            2, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Thanks for the heads-up. It looks like the link moved, we've updated it here.", 
+        "api": "F My Life", 
+        "user_rates": [
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Thanks for the heads-up. It looks like the link moved, we've updated it here.", 
+        "api": "F My Life", 
+        "user_rates": [
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Thanks for the note - we've updated the description.", 
+        "api": "Snipt", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Thanks for the note - we've updated the description.", 
+        "api": "Snipt", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "Could be good. If it worked, if there was support. Is this pre-alpha?", 
+        "api": "Active", 
+        "user_rates": [
+            -1, 
+            -1, 
+            -2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "The OpenLeg portion of the API has docs now:. URL", 
+        "api": "NY Senate", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "The OpenLeg portion of the API has docs now:. URL", 
+        "api": "NY Senate", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "The blog article very surprised to me! Your writing is good. In this I learned a lot! Thank you! baseball hats.", 
+        "api": "AddThis Menu", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "The blog article very surprised to me! Your writing is good. In this I learned a lot! Thank you! baseball hats.", 
+        "api": "AddThis Menu", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Generating effective, meaningful Keyword is as useful as wanting to succeed on optimizing a page. There are a lot of free Keyword Tool that will help in organizing words while still allowing users in obtaining results. A lot of engine and software are now available. You can choose that will best suit your needs.", 
+        "api": "Wordstream Keyword Niche Finder", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Generating effective, meaningful Keyword is as useful as wanting to succeed on optimizing a page. There are a lot of free Keyword Tool that will help in organizing words while still allowing users in obtaining results. A lot of engine and software are now available. You can choose that will best suit your needs.", 
+        "api": "Wordstream Keyword Niche Finder", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "Stay away. Stay far away.", 
+        "api": "Shutterfly", 
+        "user_rates": [
+            -2, 
+            -2, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "I have a Java link working - it is pretty basic in the features. For example you can not name a photo or provide a description.", 
+        "api": "Shutterfly", 
+        "user_rates": [
+            -1, 
+            -1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I've used the PeerIndex API in my WordPress plugin WelcomeToYourData.", 
+        "api": "PeerIndex", 
+        "user_rates": [
+            0, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I've used the PeerIndex API in my WordPress plugin WelcomeToYourData, and integration was easy and seamless.", 
+        "api": "PeerIndex", 
+        "user_rates": [
+            1, 
+            1, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I built a Wordpress plugin to display a Peerindex score. The API is easy to understand and easy to use. URL", 
+        "api": "PeerIndex", 
+        "user_rates": [
+            2, 
+            1, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "We use the PeerIndex API for URL (social media monitoring) to give editors insight into the authority of individual twitter accounts. The API is easy to integrate and the multiple data points its provides give a much better level of insight than a single score. Recommended.", 
+        "api": "PeerIndex", 
+        "user_rates": [
+            2, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Ive used the PeerIndex API and its great! I have incorporated their scoring data into my site: Tweetfind.com We plan to use this API more in the coming months with new projects.", 
+        "api": "PeerIndex", 
+        "user_rates": [
+            1, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "1.I was able to locate my house. 2. Unfortunately it has to be a rectangle. Should allow transformation by moving handles. 3.The edit function does not allow numerals. 4. On the whole anexcellent beta version.", 
+        "api": "Wikimapia", 
+        "user_rates": [
+            -2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "useless api, don't try it, no support, after payment when you use api you will see unauthorized access to api.", 
+        "api": "Mobikwik", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I am interested to purchase Amadeus Flight API for developing my own application for users.", 
+        "api": "Amadeus", 
+        "user_rates": [
+            1, 
+            1, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "I am interested to purchase Amadeus Flight API for my travel website so can you please mail me the details my mail id is EMAIL.", 
+        "api": "Amadeus", 
+        "user_rates": [
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "This is your monthly report which summarizes changes, additions and fixes to the webservices that could affect your use of it. I only have a couple things this time, but I bet you that they are worth your three minutes of reading:.", 
+        "api": "XML Soccer", 
+        "user_rates": [
+            0, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "This is deprecated?", 
+        "api": "Pinnacle Sports", 
+        "user_rates": [
+            -1, 
+            -1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "This api is working on https only....", 
+        "api": "Australia Post", 
+        "user_rates": [
+            -1, 
+            1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "searched for 3 product + one from their displayed product image ... no results, just following message..... NOT PRODUCTION or CUSTOMER worthy ..", 
+        "api": "Scandit Product", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Good software but also interesting to have a look at modern Cloud-Printing Solutions and Print-Management-Software like ezeep. URL", 
+        "api": "PaperCut", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Good software but also interesting to have a look at modern Cloud-Printing Solutions and Print-Management-Software like ezeep. URL", 
+        "api": "PaperCut", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "This is outdated, the new api information is at URL", 
+        "api": "xeno-canto", 
+        "user_rates": [
+            -1, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Thanks, we've updated the info.", 
+        "api": "xeno-canto", 
+        "user_rates": [
+            1, 
+            1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "REST API is not supported on Estimote.", 
+        "api": "Estimote", 
+        "user_rates": [
+            2, 
+            -1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Woo! We did a performance testing on last week. The Page2Images can finish 1 million requests in 24 hours.", 
+        "api": "Page2Images", 
+        "user_rates": [
+            1, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Great news! Under the last performance testing, our system can finish 10,000,000 unique requests in 4 hour!", 
+        "api": "Page2Images", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Very Good & Fast API. trusted Brand JOLO.IN.", 
+        "api": "JOLO Recharge", 
+        "user_rates": [
+            2, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "i'm 21 year old and earning upto Rs.12000/month all because of Jolo.in. Today jolo.in mobile recharge API is best API in India free of cost, i started mobile recharge website 6months ago and integrate JOLO.IN recharge API to my Wordpress website......within in 2 months my earning increase and i shift my free API plan to Super Value Plan offered from Jolo.in and its really Awsm Service in India....... i will recommend u Jolo.in API if you do not have much money to start your recharge website.They hav' 24x7 support. Jolo.in Rocks \" Trusted brand JOLO.IN\".", 
+        "api": "JOLO Recharge", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "best free api in india with good margin, i integrate jolo recharge api with my website. source code available here jolo.in/sample.zip but they provide in php only u have convert to any other language like asp. recharge in 3sec awesome feature.", 
+        "api": "JOLO Recharge", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "i finally integrate jolo.in free mobile recharge api to my wordpress website free of cost and start earning upto 3% commission using payment gateway. jolo.in is best free recharge API. JOLO.IN trusted brand in india.", 
+        "api": "JOLO SMS", 
+        "user_rates": [
+            -2, 
+            2, 
+            2
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "Jolo.in serves very poor customer service.when i got problem i used to call them,they didn't answer the call. they mentioned 24/7 customer service but they didn't reply to me in working hours as well.24/7 service is really joke.shame on them. Lastweek we got an API error as server is down from jolo. they didn't inform me about the issue. the server problem resolved after 14 hrs. they sent mail server problem resolved.sorry for inconvenience. it is really irritating.because several times i observed that they do whatever they want without intimating to us.yesterday i got another problem,i got error message as \"Current API is not working,use our new API version.\". i searched for new API but i didn't find any new API.today at 2PM, they sent mail about the new API details.I followed instruction to shift old account to new API account. but they didn't updated shifting till now.i have been calling them,they didn't even answer the call. At least they should have inform us before 2 days,so that we can plan accordingly. I suggest don't ever buy Jolo API.it sucks.our reputation will be went down.", 
+        "api": "JOLO SMS", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -2
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "Jolo API, really sucks. Nobody picks up the phone.. You get random server restarts from their side and it will be unavailable for long time.", 
+        "api": "JOLO SMS", 
+        "user_rates": [
+            -2, 
+            -2, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "API documentation has been updated and posted to URL", 
+        "api": "itBit Trading", 
+        "user_rates": [
+            1, 
+            1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "REFERENCE, the description has been updated. Thanks for pointing that out.", 
+        "api": "Chikka SMS", 
+        "user_rates": [
+            1, 
+            1, 
+            0
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "That looks quite interesting. Who can I contact to get more info about it?", 
+        "api": "Orange Search Top Trends", 
+        "user_rates": [
+            2, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "REFERENCE, you can try their Twitter dev account at URL or try their contact form URL", 
+        "api": "Orange Search Top Trends", 
+        "user_rates": [
+            1, 
+            0, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Great to see this first API.", 
+        "api": "Orange Search Top Trends", 
+        "user_rates": [
+            2, 
+            2, 
+            1
+        ]
+    }, 
+    {
+        "user_polarity": "pos", 
+        "review": "Can I get the contact details of bankswiftifsccode.com I want to buy the dump of IFSC code.", 
+        "api": "Bank Swift IFSC Code", 
+        "user_rates": [
+            1, 
+            1, 
+            -1
+        ]
+    }, 
+    {
+        "user_polarity": "neg", 
+        "review": "REFERENCE - tried this as well but no response from foxfireprinting.", 
+        "api": "InteliChoice", 
+        "user_rates": [
+            -1, 
+            -1, 
+            0
+        ]
+    }
+]
