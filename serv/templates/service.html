@@ -2,7 +2,6 @@
 {% load staticfiles %}
 {% block content %}
 <div class="row mb-4"></div>
-{% for service in services %}
 <div id="{{service.service_id}}" class="row mb-4 service">
   <div class="col-2" style="line-height: 165px;">
     <a class="pull-left" href="#">
@@ -29,12 +28,29 @@
     </div>
   </div>
 </div>
+<div class="row">
+  <div class="col-12"><h4 style="color: #fff;">Reviews</h4></div>
+  <div class="col-12"><hr style="border-top: 1px solid rgba(255,255,255, 0.3);"></div>
+</div>
+{% for review in reviews %}
+<div class="row mb-4">
+  <div class="col-2 review-info">
+    <div class="row">
+      <div class="col-12 review-date">{{review.review_date}}</div>
+    </div>
+    <div class="row">
+      {% if review.review_polarity == 'pos' %}
+      <div class="col-12"><span class="badge badge-success">positive</span></div>
+      {% endif %}
+      {% if review.review_polarity == 'neg' %}
+      <div class="col-12"><span class="badge badge-danger">negative</span></div>
+      {% endif %}
+      {% if review.review_polarity != 'neg' and review.review_polarity != 'pos' %}
+      <div class="col-12"><span class="badge badge-info">neutral</span></div>
+      {% endif %}
+    </div>
+  </div>
+  <div class="col-10 review-text">{{review.review_text}}</div>
+</div>
 {% endfor %}
-<script>
-  $(document).ready(function () {
-    $('.service').click(function() {
-      window.location.href = $(this).attr('id')+"/reviews";
-    });
-  });
-</script>
 {% endblock %}

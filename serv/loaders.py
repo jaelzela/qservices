@@ -1,4 +1,4 @@
-from serv.models import Category, Service, Review, Rate
+from serv.models import Service, Review, Rate
 import json
 import os
 
@@ -10,18 +10,7 @@ def load_services():
     json_data = open(json_url)
     data = json.load(json_data)
     for api in data:
-        try:
-            categories = Category.objects.filter(category_name=api['category'])
-        except KeyError:
-            category = Category()
-            category.category_id = 0
-            categories = [category]
-
-        if len(categories) > 0:
-            save_service(api, categories[0].category_id)
-        else:
-            category = save_category(api)
-            save_service(api, category.category_id)
+        save_service(api)
 
 
 def load_reviews():
@@ -42,26 +31,11 @@ def load_pweb_services():
     json_data = open(json_url)
     data = json.load(json_data)
     for api in data:
-        try:
-            categories = Category.objects.filter(category_name=api['category'].lower())
-        except KeyError:
-            category = Category()
-            category.category_id = 0
-            categories = [category]
-
-        if len(categories) > 0:
-            services = Service.objects.filter(service_name=api['name'])
-            if len(services) > 0:
-                services[0].description = api['description']
-                services[0].category_id = categories[0].category_id
-                services[0].save()
-        else:
-            category = save_category(api)
-            services = Service.objects.filter(service_name=api['name'])
-            if len(services) > 0:
-                services[0].description = api['description']
-                services[0].category_id = category.category_id
-                services[0].save()
+        services = Service.objects.filter(service_name=api['name'])
+        if len(services) > 0:
+            services[0].description = api['description']
+            services[0].category = api['category']
+            services[0].save()
 
 
 def load_pweb_reviews():
@@ -74,24 +48,32 @@ def load_pweb_reviews():
         if len(services) > 0:
             save_pweb_review(comment, services[0].service_id)
         else:
-            service = save_service(dict({'name': comment['api'], 'description': ''}), 0)
+            service = save_service(dict({'name': comment['api'], 'description': '', 'category': ''}))
             save_pweb_review(comment, service.service_id)
 
 
-def save_service(api, category_id):
+def load_reputation():
+    cvs_url = os.path.join(SITE_ROOT, 'static/json', 'result_list.csv')
+    file = open(cvs_url, 'r')
+    lines = file.readlines()
+    for line in lines:
+        row = line.strip().split(',')
+        services = Service.objects.filter(service_name=row[0])
+        if len(services) > 0:
+            services[0].reputation = row[-1]
+            services[0].save()
+
+
+def save_service(api):
     service = Service()
     service.service_name = api['name']
     service.service_description = api['description']
-    service.category_id = category_id
+    try:
+        service.category = api['category']
+    except KeyError:
+        service.category = ''
     service.save()
     return service
-
-
-def save_category(api):
-    category = Category()
-    category.category_name = api['category']
-    category.save()
-    return category
 
 
 def save_review(comment, service_id):

@@ -13,3 +13,66 @@ body, html {
   font-size: 30pt;
   font-weight: bold;
 }
+
+.service {
+  padding: 15px;
+  border-radius: 5px;
+  background-color: rgb(236, 241, 241);
+  cursor: pointer;
+}
+
+.category-label {
+  padding: 3px 8px;
+  background-color: rgb(222, 231, 234);
+  color: rgb(134, 149, 152);
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.category-value {
+  padding: 3px 8px;
+  background-color: rgb(44, 152, 187);
+  color: #fff;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.service-title {
+  color: rgb(134, 149, 152);
+}
+
+.service-reputation {
+  padding: 3px 8px;
+  background-color: rgb(134, 149, 152);
+  color: #fff;
+  border-radius: 5px;
+}
+
+.service-description {
+  height: 100px;
+  color: rgb(31, 32, 38);
+}
+
+.review-polarity {
+  border-radius: 5px;
+  background-color: gray;
+}
+
+.review-date {
+  color: rgb(85, 85, 85);
+}
+
+.review-info {
+  padding: 10px 15px;
+  background-color: rgb(236, 241, 241);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.review-text {
+  padding: 10px 15px;
+  color: rgba(255,255,255, 0.8);
+  background-color: rgb(134, 149, 152);
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
